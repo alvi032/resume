@@ -1,0 +1,23 @@
+.top{
+
+    background-image: url(webdev.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+
+
+    background-size: cover;
+    margin-bottom: 4em;
+    text-align: center;
+    height: 500px;
+}
+header h1{
+        color:white;
+    font-family: Arial;
+
+}
+header h2{
+    color:white;
+    font-family: Arial;
+    font-weight: lighter;
+    top:20vh;
+}
