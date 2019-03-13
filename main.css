@@ -19,9 +19,16 @@ header h4{
     font-weight: lighter;
     line-height: 10%;
 }
-
-
 hr {
 
     width: 75%;
+}
+.gallery{
+    /*max-width:33%;*/
+
+}
+.gallery  img{
+    /*max-width: 30%;*/
+    /*display:inline-block;*/
+    margin: 20px;
 }
