@@ -32,6 +32,8 @@ header h4{
     line-height: 10%;
 }
 hr {
+    margin-top: 3em;
+    margin-bottom: 2em;
 
     width: 75%;
 }
@@ -46,8 +48,17 @@ hr {
     margin: 8px;
 
 }
-/*@media(max-width: 250px){
-.gallery img{
-    max-width:50px;
+.recom p{
+    font-weight: lighter;
+    font-size: 11px;
+
+
 }
-}*/
+.recom img{
+    max-width: 100px;
+
+}
+.recom h5{
+    line-height: normal;
+
+}
