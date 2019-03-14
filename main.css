@@ -74,3 +74,51 @@ hr {
         font-size: 14px;
     }
 }
+.spotlight{
+    background-color: bisque;
+    background-size: cover;
+    height: 500px;
+}
+.rep img{
+    margin-top: 125px;
+    max-width: 200px;
+}
+.rep p{
+    max-width: 25vw;
+}
+.rep h3{
+    color: darkred;
+    margin-top: 175px;
+}
+.para{
+    margin-left: 100px;
+}
+@media(max-width: 810px){
+    .rep img{
+        margin-top: 50px;
+        max-width: 200px;
+
+    }
+    .rep p{
+        max-width: 75vw;
+    }
+    .rep h3{
+        color: darkred;
+        margin-top: 25px;
+
+    }
+    .para{
+        margin:auto;
+    }
+}
+.btnproj{
+    background-color: transparent;
+    border-radius: 5px;
+}
+.btnproj a{
+    color: darkred;
+}
+.skills ul{
+    list-style-type: none;
+    padding: 0;
+}
