@@ -62,3 +62,14 @@ hr {
     line-height: normal;
 
 }
+@media (max-width: 600px) {
+    .recom  img{
+        max-width: 50px;
+    }
+    .recom  p{
+        font-size: 11px;
+    }
+    .recom h5{
+        font-size: 14px;
+    }
+}
